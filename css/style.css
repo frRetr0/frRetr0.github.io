@@ -1,0 +1,81 @@
+h1{
+	text-align: center;
+    background: white;
+}
+
+.info{
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.passenger{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 100px;
+	box-shadow: 8px 8px 0px #000; 
+
+}
+
+.FaF{
+    position: absolute;
+    margin-left: 1240px;
+    margin-top: 100px;
+	box-shadow: 8px 8px 0px #000;
+}
+
+.AN{
+    position: absolute;
+    margin-bottom: 250px;
+    margin-left: 820px;
+	box-shadow: 8px 8px 0px #000; 
+
+}
+
+.SF{
+	position: absolute;
+	margin-top: 500px;
+    margin-left: 1100px;
+	box-shadow: 8px 8px 0px #000; 
+}
+
+.J{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 540px;
+    box-shadow: 8px 8px 0px #000;
+}
+
+body{
+	background-color: #DC6202;
+	 font-family: sans-serif;
+	 overflow:scroll;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #111;
+}
+			
